@@ -1,0 +1,18 @@
+{
+  "name": "Time2Live - Actuarial Longevity Estimator",
+  "short_name": "Time2Live",
+  "description": "Actuarial longevity estimator and health expectancy calculator.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#064e3b",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
